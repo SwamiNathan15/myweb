@@ -1,0 +1,35 @@
+
+
+
+
+        body {
+            background-color: #b9bdc0;
+            padding: 20px;
+        }
+        .body{
+            height: 200px;
+            background-color: black;
+            color: rgb(132, 111, 111);
+            display: flex;
+            margin-top: 20px
+        }
+        h2{
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
+        .container1{
+            margin-top: 20px;
+            padding: 20px;
+            background-color: rgb(63, 13, 54);
+            border-radius: 10px;
+            box-shadow:  0 2px 4px rgba(0,0,0,0.1);
+            background-image: linear-gradient(to right, #f0e68c, #7d602f);
+        }
+          .container2 {
+        margin-top: 20px;
+        padding: 20px;
+        background-color: #e4dcdc;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        background-image: linear-gradient(to right,rgb(242, 166, 35),rgb(170, 128, 77));
+        }
